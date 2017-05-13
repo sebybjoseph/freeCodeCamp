@@ -1,0 +1,72 @@
+#main-image{
+	background-color: #1D1D1D !important;
+	border : 0px !important;
+}
+
+.main-heading{
+	padding-top: 60px !important;
+}
+
+.sub-heading{
+	padding-left: 150px !important;
+	padding-bottom: 50px !important;
+}
+
+.top, .thumbnail, footer{
+	background-color: #1D1D1D !important;
+	color: #BAB9B9 !important;
+}
+
+.jumbotron{
+  background-color: transparent !important;
+	color: #BAB9B9 !important;
+}
+
+.middle{
+	background-color: #BAB9B9 !important;
+	color: #1D1D1D !important;
+}
+
+.thumbnail{
+	padding: 0 0 15px 0 !important;
+    border: .2px solid #BAB9B9 !important;
+    border-radius: 0 !important;
+}
+
+.thumbnail .text{
+	padding: 30px 0px 0px 50px !important;
+}
+
+.list-group-item{
+	background-color: #1D1D1D !important;
+	color: #BAB9B9 !important;
+	padding-top: 20px !important;
+	padding-bottom: 20px !important;
+}
+
+.list-group{
+	padding-bottom: 20px !important;
+}
+
+.about-head,footer{
+	padding-top: 30px !important;
+	padding-bottom: 30px !important;
+	letter-spacing : 5px !important;
+}
+
+.carousel-inner .item img{
+	margin: 0 auto !important;
+
+}
+
+.carousel-inner{
+	background-color: #4E4646 !important;
+	padding: 10px 15px !important;
+}
+.img-responsive{
+  width:100%;
+}
+
+.glyphicon-bullhorn{
+	padding-right: 10px;
+}
